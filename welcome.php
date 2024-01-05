@@ -1,4 +1,4 @@
 <?php
-echo "welcome to my page"."<br>";
+echo "welcome to My page"."<br>";
 echo "hello user!!"."<br>";
 ?>
